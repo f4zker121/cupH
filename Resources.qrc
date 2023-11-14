@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/360_F_342419172_SeCpFLBSAhasGKjahiYtVAwiwZ1KjMC2.jpg</file>
+        <file>image/bulet.png</file>
+        <file>image/bulet2.png</file>
+        <file>image/Cuphead_results.webp</file>
+        <file>image/Goopy_p2_jump.webp</file>
+        <file>image/Cup_Idle.webp</file>
+    </qresource>
+</RCC>
